@@ -1,7 +1,5 @@
 This is my first line and I am using git for the first time.
 
-add a line
+adding a new line
 
-adding a new branch
 
-hello guys I have created a new branch
