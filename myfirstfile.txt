@@ -1,5 +1,5 @@
 This is my first line and I am using git for the first time.
 
-adding a new line
+adding a new line.
 
 
