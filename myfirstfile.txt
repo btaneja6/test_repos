@@ -1,5 +1,5 @@
-This is my first line and I am using git for the first time.
+1.This is my first line and I am using git for the first time.
 
-adding a new line.
+2.changing a second line that would create a new report.
 
-
+3. Added a third feature.
